@@ -22,10 +22,7 @@ Demo: See it on youtube https://www.youtube.com/watch?v=9g-GxTwakXk
 ### Required packages for python
 * flask : To work with flask framework in python
 * pymongo : To work with MongoDB database from python
-##### Command to install required packages
-* All packages at once : pip install -r requirements.txt
-* Individual packages : pip install <package_name>
-* <package_name> : flask, pymongo
+
 #### Operations that can be performed with API
 * Create and/or Add items to cart
 * Get items in cart
